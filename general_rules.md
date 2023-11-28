@@ -4,8 +4,9 @@
 `Magic Values` 指的是代码中直接使用的一些特定值，但它们的来源或含义对阅读代码的人来说并不明显或直接理解。
 
 ### 代码风格
-函数名采用小驼峰式命名法（lowerCamelCase），类名采用大驼峰式命名法（UpperCamelCase）， 变量采用下划线命名法 （`abc_def` 形式）
-对于一些常数值（`CONST`）来说使用UPPERCAMELCASE
+- 函数名采用小驼峰式命名法（lowerCamelCase），类名采用大驼峰式命名法（UpperCamelCase）， 变量采用下划线命名法 （`abc_def` 形式）
+- 对于一些常数值（`CONST`）来说使用UPPERCAMELCASE
+- 代码缩进是使用4个空格而非1个tab 或者2个空格
 
 ### 代码字段
 所有代码除了注释需要用美式英语进行拼写，不允许存在拼写错误。代码注释可以使用中文。
