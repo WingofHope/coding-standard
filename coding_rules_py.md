@@ -17,7 +17,7 @@
 ## 代码文档
 所有代码必须用Doc-string 注释和内联注释。 例如:
 ```python
-def calculate_area(radius: float) -> float:
+def calculate_area(radius: float) (-> float):
     """
     计算圆的面积。
 
