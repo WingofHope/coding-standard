@@ -5,7 +5,7 @@
 
 ### 代码风格
 - 函数名采用小驼峰式命名法（lowerCamelCase），类名采用大驼峰式命名法（UpperCamelCase）， 变量采用下划线命名法 （`abc_def` 形式）
-- 对于一些常数值（`CONST`）来说使用UPPERCAMELCASE
+- 对于一些常数值（`CONST`）来说使用UPPER_CAMEL_CASE
 - 代码缩进是使用4个空格而非1个tab 或者2个空格
 - 文件名采用下划线命名法 （`abc_def` 形式）
 

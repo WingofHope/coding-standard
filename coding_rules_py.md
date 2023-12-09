@@ -11,6 +11,7 @@
 - **代码自动格式化**: 推荐使用 [Black](https://github.com/psf/black), 推荐版本号为 22.3.0， 使用pip 进行安装 `pip install black`
 - **代码风格**: 函数名最好采用小驼峰式命名法（lowerCamelCase），类名采用大驼峰式命名法（UpperCamelCase）， 变量采用下划线命名法 （`abc_def` 形式）
 - **代码字段**: 所有代码除了注释需要用美式英语进行拼写，不允许存在拼写错误。代码注释可以使用中文。
+- 代码需要对每一个变量写一个`typing` （除了self）
 
 推荐使用[Pylint](https://www.pylint.org) 来检查代码质量。 
 
